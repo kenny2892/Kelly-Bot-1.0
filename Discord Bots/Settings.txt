@@ -1,0 +1,13 @@
+Whitelist:
+	Clear:
+		
+	SetPrefix:
+		
+	playing:
+		
+
+Settings:
+	prefix:
+		~
+	playing:
+		playing The World May Never Know

@@ -1,0 +1,14 @@
+{
+	"token": "",
+	
+	"/Comment": "Type in the Roles you want to be Whitelisted for these Commands",
+	"Clear": "",
+	"SetPrefix": "",
+	
+	"//Comment": "Type in the Settings for Each Field",
+	"Prefix": "~",
+	"Playing": "The World May Never Know",
+	
+	"///Comment": "Can do 'Playing', 'Listening', 'Watching', or '' for not playing anything",
+	"Playing Type": "Playing",
+}

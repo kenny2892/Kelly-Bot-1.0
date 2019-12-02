@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//src/Commands/Clear.java=UTF-8
+encoding//src/Commands/CommandTemplate.java=UTF-8
+encoding//src/Commands/FindReference.java=UTF-8
+encoding//src/Commands/Greeting.java=UTF-8
+encoding//src/Commands/Help.java=UTF-8
+encoding//src/Commands/Music/NowPlaying.java=UTF-8
+encoding//src/Commands/Music/Play.java=UTF-8
+encoding//src/Commands/Music/SetPosition.java=UTF-8
+encoding//src/Commands/SetPrefix.java=UTF-8
+encoding//src/Commands/SetStatus.java=UTF-8
+encoding//src/Commands/UserInfo.java=UTF-8
+encoding//src/Commands/Whitelist.java=UTF-8
